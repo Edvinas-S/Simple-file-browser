@@ -1,4 +1,4 @@
-![HitCount](http://hits.dwyl.com/edvinas-s/https://github.com/Edvinas-S/Simple-file-browser-with-PHP/.svg)
+[![HitCount](http://hits.dwyl.com/Edvinas-S/https://githubcom/Edvinas-S/Simple-file-browser-with-PHP.svg)](http://hits.dwyl.com/Edvinas-S/https://githubcom/Edvinas-S/Simple-file-browser-with-PHP)
 # Simple-file-browser-with-PHP
  
 ## This project was for education of RAW PHP
